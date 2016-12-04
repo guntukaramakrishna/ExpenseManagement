@@ -13,6 +13,8 @@ import com.epm.dto.Users;
  * @author PRODEP_SOL
  */
 public interface UsersDAO {
-    
+    /**
+    *This method is used to the user to DB 
+    */
     public boolean addUser(Users user);
 }
