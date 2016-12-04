@@ -6,10 +6,13 @@
 
 package com.epm.dao;
 
+import com.epm.dto.Users;
+
 /**
  *
  * @author PRODEP_SOL
  */
 public interface UsersDAO {
     
+    public boolean addUser(Users user);
 }
