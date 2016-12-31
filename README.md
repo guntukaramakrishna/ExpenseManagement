@@ -1,2 +1,2 @@
 # ExpenseManagement - TOOL
-A Tool Which helps to manage the expenses and helps to plan the Budget at home or office
+A Tool Which helps to manage the expenses and helps to plan the Budget at home or office or anywhere
